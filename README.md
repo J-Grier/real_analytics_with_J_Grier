@@ -1,4 +1,4 @@
-#🚧 Real-Time Market Analytics with Databricks and Polygon.io
+# 🚧 Real-Time Market Analytics with Databricks and Polygon.io
 
 **Overview:**  
 This project demonstrates an end-to-end analytics pipeline using Azure Databricks, PySpark, and Polygon.io real-time financial data to deliver volatility forecasts and sentiment-driven market analytics.
